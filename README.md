@@ -1,0 +1,1 @@
+# MudarResolu-oTela

@@ -5,8 +5,8 @@ Função que muda a resolução da sua tela de acordo com os dados lidos de um J
 
 INSTALAR E VER ESSAS BIBLIOTECAS
 
-import json
-import pyautogui as p
-import win32api
-import win32con
-import pywintypes
+pip install json<br/>
+pip install pyautogui as p<br/>
+pip install  win32api<br/>
+pip install win32con<br/>
+pip install  pywintypes<br/>

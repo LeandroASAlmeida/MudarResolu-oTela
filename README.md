@@ -1,1 +1,1 @@
-# MudarResolu-oTela
+# MudarResoluTela
